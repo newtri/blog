@@ -23,6 +23,9 @@ $grey-color:       #828282;
 
 $rs: 16px;
 
+$font-sans: "Roboto", sans-serif;
+$font-serif: Georgia,Cambria,"Times New Roman",Times,'Lora', serif;
+
 @mixin respond-to($breakpoint) {
   @media only screen and (max-width: $breakpoint + px) {
     @content;
