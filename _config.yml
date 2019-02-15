@@ -7,24 +7,24 @@
 
 # Site settings
 title: Blog Newtri
-email: your-email@domain.com
+email: contacto@quetru.cl
 description: >
-  Awesome site description here
+  Últimas novedades de Newtri Labs. Actualizaremos esta página para anunciar nuevos lanzamientos y mostrar datos interesantes de nuestros proyectos en desarrollo.
 logo: "/assets/images/logo.jpg"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://newtri.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
-name: 'Your Name'
-bio: >
-  Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
-  Ne solet nostrum complectitur pri, vis ut inani populo.
+name: 'Newtri Labs'
+# bio: >
+#   Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
+#   Ne solet nostrum complectitur pri, vis ut inani populo.
 author_image: "/assets/images/author.jpg"
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  newtri
 
 # Google Analytics
-analytics_id: ""
+analytics_id: "UA-60759619-2"
 
 kramdown:
   parse_block_html: true
