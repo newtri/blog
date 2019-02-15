@@ -26,9 +26,6 @@ github_username:  jekyll
 # Google Analytics
 analytics_id: ""
 
-# Build settings
-markdown: kramdown
-
 kramdown:
   parse_block_html: true
 
