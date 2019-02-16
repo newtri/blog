@@ -51,7 +51,7 @@ layout: default
     {% else %}
       <a class="newer-posts disabled">&larr; Older posts</a>
     {% endif %}
-    <span class="page-number">Página {{ paginator.page }} de {{ paginator.total_pages }}</span>
+    <!-- <span class="page-number">Página {{ paginator.page }} de {{ paginator.total_pages }}</span> -->
     {% if paginator.previous_page %}
       {% if paginator.page == 2 %}
         <a class="older-posts" href="{{ site.baseurl }}/">Newer posts &rarr;</a>
