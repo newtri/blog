@@ -18,6 +18,8 @@ Pasamos de haber creado el blog Newtri, enfocado a dar información orientada al
 
 El fin es facilitar atención y manejo de pacientes, con una herramienta que concentre la atención, la construcción de pautas personalizadas, según hábitos, preferencias, patologías y una serie de otras variables, basadas en evidencia científica.
 
+> Una vez probados, iremos haciendo nuestros proyectos disponibles a los profesionales de la salud interesados.
+
 Mantendremos en nuestra página acceso a nuestras antiguas aplicaciones para celulares, enfocadas a profesionales e iremos agregando de a poco nuestros nuevos proyectos.
 
 > Estamos trabajando intensamente con el fin de brindar novedades lo más pronto posible.
