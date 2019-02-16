@@ -56,17 +56,23 @@ body {
 }
 
 .site-header {
-  position: relative;
+  position: fixed;
+  z-index: 1000;
+  background-color: white;
+  top: 0;
   width: 100%;
-  padding: 24px;
+  padding: 8px 24px 8px;
   @include box-sizing(border-box);
   @include respond-to(800) {
     padding: 0 $rs * 1;
   }
+  box-shadow: 0 0 2px rgba(0,0,0,.2);
 
   .page-links {
       display: block;
-      padding: 24px;
+      padding: 8px;
+      font-size: 14px;
+      font-weight: 500;
       position: absolute;
       top: 10px;
       right: $rs;
@@ -86,7 +92,7 @@ body {
 .blog-header {
   width: 100%;
   max-width: 700px;
-  margin: 80px auto;
+  margin: 160px auto 120px;
   position: relative;
   padding: 0;
   @include box-sizing(border-box);
@@ -114,7 +120,7 @@ body {
 .content {
   width: 100%;
   max-width: 700px;
-  margin: 25px auto 0 auto;
+  margin: 120px auto 0 auto;
   @include box-sizing(border-box);
   @include respond-to(800) {
     padding: 0 $rs * 1;
@@ -128,15 +134,15 @@ body {
     }
     .post-title {
       letter-spacing: -0.02em;
-      font-weight: 500;
+      font-weight: 400;
       font-style: normal;
       display: block;
-      font-size: 36px;
+      font-size: 32px;
       line-height: 1.15;
       margin: 0 0;
       a {
         text-decoration: none;
-        color: #333332;
+        color: #dd0074;
         &:hover {
           text-decoration: none;
         }
@@ -241,7 +247,7 @@ body {
 
   .post-content {
     width: 100%;
-    font-family: $font-serif;
+    font-family: $font-sans;
     color: #333333;
     h1, h2, h3 {
       font-family: $font-sans;
@@ -363,8 +369,7 @@ body {
       border-top: 1px solid #dddddd;
     }
     .isLeft {
-      float: left;
-      width: 47%;
+      width: 100%;
       @include box-sizing(border-box);
       @include respond-to(800) {
         width: 100%;
@@ -387,7 +392,6 @@ body {
         text-decoration: none;
         &:hover {
           color: #333333;
-          text-decoration: underline;
         }
       }
       .author-image {
@@ -395,7 +399,9 @@ body {
         width: 80px;
         height: 80px;
         float: left;
-        background-size: cover;
+        background-repeat: no-repeat;
+        background-size: 80px 80px;
+        background-position: center;
         border-radius: 100%;
         text-indent: -9999px;
       }
@@ -417,18 +423,6 @@ body {
         &.published {
           color: #999999;
         }
-      }
-    }
-    .isRight {
-      float: right;
-      width: 47%;
-      @include box-sizing(border-box);
-      @include respond-to(800) {
-        width: 100%;
-      }
-
-      .index-headline {
-        padding-bottom: 32px;
       }
     }
   }
@@ -524,4 +518,9 @@ footer .social-links img {
 footer a {
   text-decoration: none;
   cursor: pointer;
+}
+.page-number {
+  font-weight: 500;
+  color: #222222;
+  font-size: 14px;
 }

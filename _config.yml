@@ -17,9 +17,9 @@ paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Newtri Labs'
 bio: >
-  Somos profesionale de la salud.
+  Somos profesionales de la salud.
   Desarrollamos las aplicaciones que nos gustaría tener disponibles.
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/autor.png"
 # twitter_username: jekyllrb
 github_username:  newtri
 
