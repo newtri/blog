@@ -75,7 +75,7 @@ body {
       font-size: 14px;
       font-weight: 500;
       position: absolute;
-      top: 10px;
+      top: 9px;
       right: $rs;
 
   }
@@ -84,27 +84,29 @@ body {
 .titulo {
   text-decoration: none;
   color: #dd0074;
-  margin-top: 2px;
-  margin-left: 8px;
+  top: 10px;
+  left: 24px;
   font-size: 20px;
-  display: inline-block;
+  position: fixed;
 }
 
 .texto {
-  margin-top: 10px;
+  left: 80px;
+  top: 17.5px;
   position: fixed;
 }
 
 @media (max-width: 480px){
   .titulo {
-    margin-top: 10px;
+    top: 10px;
   }
 
   .texto {
-    margin-top: 17.5px;
+    left: 70px;
+    top: 17.5px;
   }
   .post-title a{
-    font-size: 28px;
+    font-size: 26px;
   }
   
 }
