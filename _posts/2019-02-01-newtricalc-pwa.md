@@ -4,22 +4,23 @@ title: PWA NewtriCalc
 resumen: Nuestra popular aplicación de cálculos nutricionales sigue siendo gratuita. Puede acceder a ella desde el navegador de cualquier dispositivo e instalarla.
 ---
 
-At labitur probatus eum, qui modo idque partem ne, ea has oratio sanctus cotidieque. Dicta persecuti sit ex. Discere facilis recteque sit no, in eripuit volumus adversarium vim. Ad sed meis nulla accusata. Ex posse accusam maluisset mei, id vix ignota cetero inimicus.
+NewtriCalc, la aplicación que desarrollamos en nuestros inicios en 2016, ya no se encuentra en App Store ya que cerramos nuestra cuenta para enfocarnos en nuestros nuevos proyectos. 
 
-> Nec amet pericula dissentiet...
->
-> Nam liber tritani ei, urbanitas tincidunt usu et. Odio voluptua gubergren at cum. An porro mucius tibique nam, cu usu everti dignissim assueverit. Docendi patrioque constituto te sit. Qui lorem soluta ea, commune deserunt sed id. Accusam commune cotidieque his ea.
+> Sin importar si la aplicación publicada en AppStore es gratuita, Apple nos cobraba anualmente por mantenerla disponible.
 
-Pro hinc copiosae an, ad ius salutandi expetendis. Quo suavitate intellegat forensibus an. Sonet meliore consetetur te sea, in eam decore utroque, dicat verear et sit. Pro aperiam pertinax splendide id, IUS STET ELEIFEND INTELLEGAM ID.
+<amp-video controls autoplay loop
+  width="640"
+  height="360"
+  layout="responsive"
+  poster="">
+  <source src="{{site.baseurl}}/assets/images/iPhone2.mp4"
+    type="video/mp4" />
+  <div fallback>
+    <p>This browser does not support the video element.</p>
+  </div>
+</amp-video>
 
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/people"></amp-img>
+NewtriCalc seguirá estando disponible, gratis y sin publicidad, como [PWA](https://developers.google.com/web/progressive-web-apps/), por lo que pueden acceder a ella desde cualquier dispositivo con navegador web, esto incluye a quienes tengan iPhone y quieran seguirla utilizando.
 
-Ea ullamcorper intellegebat pri!
+#### Haz click aquí para acceder a [NewtriCalc](https://newtricalc.firebaseapp.com)
 
-### Vix cu alienum evertitur
-
-Mea suas vituperatoribus et, virtute corpora quaestio cum ut. Ne solet nostrum complectitur pri, vis ut inani populo. Ad eligendi vituperata sadipscing pro, ad mea modo meis philosophia, an eos consul impedit qualisque. Eruditi reprimique id eum, in tincidunt percipitur vis.
-
-Ne ius nominavi verterem. Principes voluptaria pro at. Sint mediocrem cum ea, his purto dicat scaevola ad. Per quem magna gubergren id, pri in noluisse salutatus imperdiet. In postea consequat percipitur vis, nam postea commodo lobortis an, ut atqui antiopam eloquentiam eum.
-
-> Erat officiis probatus eam ea, nibh legere insolens ad sit. Nec alii dicam ad, cibo regione per no. Verear invenire ut usu, nec mazim euripidis in. Molestie placerat id quo, quo dissentias complectitur ex. Ex probatus principes efficiantur pro, possit perfecto ut eum. Vix ei summo perpetua, enim adhuc vix ei, sed in homero delicata periculis. Praesent intellegat qui ne.
