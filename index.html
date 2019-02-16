@@ -20,7 +20,25 @@ layout: default
             <p>{{ post.resumen }}</p>
           </section>
           <div class="post-meta">
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time>
+            <time datetime="{{ post.date | date_to_xmlschema }}">
+              {% assign m = post.date | date: "%-m" %}
+              {{ post.date | date: "%-d" }}
+              {% case m %}
+                {% when '1' %}Enero
+                {% when '2' %}Febrero
+                {% when '3' %}Marzo
+                {% when '4' %}Abril
+                {% when '5' %}Mayo
+                {% when '6' %}Junio
+                {% when '7' %}Julio
+                {% when '8' %}Agosto
+                {% when '9' %}Septiembre
+                {% when '10' %}Octubre
+                {% when '11' %}Noviembre
+                {% when '12' %}Diciembre
+              {% endcase %}
+              {{ post.date | date: "%Y" }}
+            </time>
           </div>
         </div>
       </article>
