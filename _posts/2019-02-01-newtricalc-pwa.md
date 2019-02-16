@@ -12,8 +12,8 @@ NewtriCalc, la aplicación que desarrollamos en nuestros inicios en 2016, ya no 
   width="640"
   height="360"
   layout="responsive"
-  poster="{{site.baseurl}}/assets/images/iPhone2.png">
-  <source src="{{site.baseurl}}/assets/images/iPhone2.mp4" type="video/mp4" />
+  poster="{{site.baseurl}}/assets/images/iphone.jpg">
+  <source src="{{site.baseurl}}/assets/images/iphone.mp4" type="video/mp4" />
   <div fallback>
     <p>This browser does not support the video element.</p>
   </div>
