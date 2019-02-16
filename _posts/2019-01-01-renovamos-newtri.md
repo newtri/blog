@@ -8,6 +8,8 @@ resumen: A contar de hoy eliminamos el antiguo sitio del blog newtri.cl, damos p
 >
 > Newtri cambia drásticamente de rumbo: deja de ser un blog de nutrición enfocado a público en general y profesionales para dar cabida a nuestros nuevos proyectos.
 
+<amp-img width="600" height="300" layout="responsive" src="{{site.baseurl}}/assets/images/finBlog.jpg"></amp-img>
+
 #### Desde hoy será el sitio oficial de Newtri Labs
 
 ¿Qué es Newtri Labs?
@@ -18,4 +20,4 @@ El fin es facilitar atención y manejo de pacientes, con una herramienta que con
 
 Mantendremos en nuestra página acceso a nuestras antiguas aplicaciones para celulares, enfocadas a profesionales e iremos agregando de a poco nuestros nuevos proyectos.
 
-Estamos trabajando intensamente con el fin de brindar novedades lo más pronto posible.
+> Estamos trabajando intensamente con el fin de brindar novedades lo más pronto posible.
