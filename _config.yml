@@ -11,8 +11,8 @@ email: contacto@quetru.cl
 description: >
   Últimas novedades de Newtri Labs. Actualizaremos esta página para anunciar nuevos lanzamientos y mostrar datos interesantes de nuestros proyectos en desarrollo.
 logo: "/assets/images/logo.jpg"
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://newtri.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://blog.newtri.cl" # the base hostname & protocol for your site
 paginate:	15 # The number of posts to show per page on your homepage
 
 name: 'Newtri Labs'
