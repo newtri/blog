@@ -3,7 +3,7 @@
 Repositorio del blog del sitio newtri.cl.
 
 - Homepage [HTML5](https://www.w3schools.com/html/default.asp), [JS](https://www.w3schools.com/js/default.asp) y [CSS](https://www.w3schools.com/css/default.asp)
-- Blog [Jekyllrb](https://jekyllrb.com/)
+- Blog [Jekyllrb](https://jekyllrb.com/) y [Google AMP](https://www.ampproject.org/es/)
 
 Todos los derechos reservados © Quetru Ltda, 2019
 
