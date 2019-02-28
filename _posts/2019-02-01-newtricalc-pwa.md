@@ -19,9 +19,9 @@ NewtriCalc, la aplicación que desarrollamos en nuestros inicios en 2016, ya no 
   </div>
 </amp-video>
 
-> Luego de agregar la aplicación a la pantalla de inicio, tanto en iOs como en Android, podrá utilizarla incluso si se encuentra offline.
-
 NewtriCalc seguirá estando disponible, gratis y sin publicidad, como [PWA](https://developers.google.com/web/progressive-web-apps/), por lo que pueden acceder a ella desde cualquier dispositivo con navegador web, esto incluye a quienes tengan iPhone y quieran seguirla utilizando.
+
+> Luego de agregar la aplicación a la pantalla de inicio, tanto en iOS como en Android, podrá utilizarla incluso si se encuentra offline.
 
 #### Haz click aquí para acceder a [NewtriCalc](https://newtricalc.firebaseapp.com)
 
